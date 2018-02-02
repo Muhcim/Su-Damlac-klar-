@@ -1,0 +1,8 @@
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\bin\Debug\Su Damlacıkları.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\bin\Debug\Su Damlacıkları.exe
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\bin\Debug\Su Damlacıkları.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\obj\Debug\Su_Damlacıkları.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\obj\Debug\Su_Damlacıkları.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\obj\Debug\Su Damlacıkları.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\obj\Debug\Su Damlacıkları.exe
+c:\users\everest\documents\visual studio 2013\Projects\Su Damlacıkları\Su Damlacıkları\obj\Debug\Su Damlacıkları.pdb
